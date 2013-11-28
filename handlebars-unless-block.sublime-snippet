@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+\{\{#unless ${1:context}\}\}
+  $2
+\{\{/unless\}\}
+]]></content>
+  <tabTrigger>unless</tabTrigger>
+  <description>Inserts a Handlebars "unless" block helper.</description>
+  <scope>text.html.handlebars, text.html.hbs</scope>
+</snippet>

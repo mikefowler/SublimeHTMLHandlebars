@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+\{\{ ${1:variable} \}\}
+]]></content>
+  <tabTrigger>variable</tabTrigger>
+  <description>Inserts a Handlebars variable.</description>
+  <scope>text.html.handlebars, text.html.hbs</scope>
+</snippet>

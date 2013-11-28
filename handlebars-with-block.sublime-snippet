@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+\{\{#with ${1:context}\}\}
+  $2
+\{\{/with\}\}
+]]></content>
+  <tabTrigger>with</tabTrigger>
+  <description>Inserts a Handlebars "with" block helper.</description>
+  <scope>text.html.handlebars, text.html.hbs</scope>
+</snippet>

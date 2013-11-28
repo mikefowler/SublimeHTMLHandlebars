@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+\{\{#if ${1:context}\}\}
+  $2
+\{\{else\}\}
+  $3
+\{\{/if\}\}
+]]></content>
+  <tabTrigger>ifelse</tabTrigger>
+  <description>Inserts a Handlebars "if/else" block helper.</description>
+  <scope>text.html.handlebars, text.html.hbs</scope>
+</snippet>

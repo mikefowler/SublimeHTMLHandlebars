@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+\{\{#each ${1:context}\}\}
+  $2
+\{\{/each\}\}
+]]></content>
+  <tabTrigger>each</tabTrigger>
+  <description>Inserts a Handlebars "each" block helper.</description>
+  <scope>text.html.handlebars, text.html.hbs</scope>
+</snippet>

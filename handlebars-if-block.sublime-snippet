@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+\{\{#if ${1:context}\}\}
+  $2
+\{\{/if\}\}
+]]></content>
+  <tabTrigger>if</tabTrigger>
+  <description>Inserts a Handlebars "if" block helper.</description>
+  <scope>text.html.handlebars, text.html.hbs</scope>
+</snippet>
