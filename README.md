@@ -1,10 +1,10 @@
-# SublimeHTMLHandlebars
+**Adds reliable, no-nonsense [Handlebars][1] syntax to Sublime Text. Supports `.handlebars`, and `.hbs` files.**
 
-Adds HTML [Handlebars][2] as a language to [Sublime Text 2/3][1], with snippets. Syntax file obtained from [adamchainz's SublimeHTMLMustache project][3]. Supports `.handlebars`, and `.hbs` files.
+Credit goes to [adamchainz's SublimeHTMLMustache project][2] for the original syntax files, updated to support Handlebars instead.
 
-## How to Use
+## Snippets
 
-Set syntax to "HTML (Handlebars)". Use the following snippets:
+After setting the syntax to "HTML (Handlebars)" you will be able to use the following snippets:
 
 Trigger                 | Result
 ----------------------- | ----------------------
@@ -30,6 +30,5 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-[1]: http://www.sublimetext.com
-[2]: http://handlebarsjs.com
-[3]: https://github.com/adamchainz/SublimeHTMLMustache
+[1]: http://handlebarsjs.com
+[2]: https://github.com/adamchainz/SublimeHTMLMustache
